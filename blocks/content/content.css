@@ -1,0 +1,19 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 58px;
+    margin-bottom: 92px;
+}
+
+@media screen and (max-width: 984px){
+    .content {
+        margin-bottom: 88px;
+    }
+}
+
+@media screen and (max-width: 720px){
+    .content {
+        margin-bottom: 64px;
+    }
+}

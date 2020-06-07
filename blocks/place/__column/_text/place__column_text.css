@@ -1,0 +1,5 @@
+@import url('./_padding/place__column_text_padding.css');
+
+.place__column_text {
+    max-width: 484px;
+}

@@ -1,0 +1,7 @@
+@import url('./_intro/place__column_intro.css');
+@import url('./_text/place__column_text.css');
+
+.place__column {
+    display: flex;
+    flex-direction: column;
+}

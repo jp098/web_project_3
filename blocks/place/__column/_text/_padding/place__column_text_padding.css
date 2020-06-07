@@ -1,0 +1,9 @@
+.place__column_text_padding {
+    padding-top: 76px;
+}
+
+@media screen and (max-width: 984px){
+    .place__column_text_padding {
+        padding-top: 0;
+    }
+}
