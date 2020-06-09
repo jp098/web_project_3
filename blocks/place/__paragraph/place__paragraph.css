@@ -1,29 +1,24 @@
 .place__paragraph {
-    width: 100%;
     margin: 0 0 24px;
     font-size: 18px;
-    line-height: 1.7;
+    line-height: 167%;
     font-weight: normal;
-}
-
-.place__paragraph:first-child {
-    margin-top: 48px;
+    grid-column: 2;
 }
 
 .place__paragraph:last-child {
     margin-bottom: 0;
 }
 
-@media screen and (max-width: 1140px){
-    .place__paragraph {
-        font-size: 18px;
-        line-height: 1.7;
-    }
-}
-
 @media screen and (max-width: 984px){
     .place__paragraph {
         font-size: 16px;
-        line-height: 1.6;
+    }
+}
+
+@media screen and (max-width: 720px){
+    .place__paragraph {
+        margin: 0 16px 24px;
+        grid-column: 1;
     }
 }

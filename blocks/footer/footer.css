@@ -1,16 +1,17 @@
 @import url('./__link/footer__link.css');
+@import url('./__links/footer__links.css');
 @import url('./__copyright/footer__copyright.css');
 
 .footer {
     display: flex;
-    width: calc(100% - 48px*2);
+    width: calc(100% - 48px * 2);
     margin: 0 48px 24px;
     height: 18px;
 }
 
 @media screen and (max-width: 984px){
     .footer {
-        width: calc(100% - 24px*2);
+        width: calc(100% - 24px * 2);
         margin: 0 24px 24px;
     }
 }

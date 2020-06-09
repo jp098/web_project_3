@@ -4,6 +4,8 @@
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: scroll;
+    text-decoration: none;
+    color: #fff;
     width: 100%;
     min-height: 748px;
 }

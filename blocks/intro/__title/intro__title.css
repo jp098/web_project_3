@@ -2,7 +2,7 @@
     width: 690px;
     height: 116px;
     font-size: 54px;
-    line-height: 1.1;
+    line-height: 107%;
     font-weight: 900;
     margin: 0;
 }
@@ -19,6 +19,6 @@
         width: 288px;
         height: 105px;
         font-size: 32px;
-        line-height: 1.1;
+        line-height: 109%;
     }
 }

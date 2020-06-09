@@ -1,6 +1,8 @@
 # web_project_3
 Web Project 3
 
+(https://jp098.github.io/web_project_3/)
+
 ### Description of project
 Project was created to learn and practice responsive web development. The web page is about learning a little more about the country you live in. It contains iformation and facts about different states across the US along historic Route 66. The webpage was design to adapt to multiple screen sizes and resolutions.
 
