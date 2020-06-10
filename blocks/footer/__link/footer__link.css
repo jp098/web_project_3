@@ -5,24 +5,15 @@
     color: #fff;
     text-decoration: none;
     transition: opacity .3s linear .07s;
-    margin-right: 18px;
 }
 
 .footer__link:hover {
     opacity: .3;
-}
-.footer__link:last-of-type {
-    margin-right: 0;
 }
 
 @media screen and (max-width: 720px) {
     .footer__link {
         font-size: 24px;
         line-height: 1;
-        margin-bottom: 32px;
-    }
-
-    .footer__link:last-of-type {
-        margin-bottom: 48px;
     }
 }
