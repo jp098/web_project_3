@@ -1,7 +1,7 @@
 .footer__links {
     display: grid;
     grid-template-columns: auto auto auto;
-    grid-gap: 18px
+    grid-gap: 18px;
 }
 
 .footer__links:nth-child(1) {
